@@ -10,3 +10,5 @@ let array = [{
     favoriteBook: "Nessuno si salva da solo",
     petName: "Ginger, Yuki, Reneé, Ciccio"
     }]
+
+// test
