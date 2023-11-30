@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let array = [{
     name: "Hegel",
     surname: "Minniti",
@@ -10,5 +11,8 @@ let array = [{
     favoriteBook: "Nessuno si salva da solo",
     petName: "Ginger, Yuki, Reneé, Ciccio"
     }]
+=======
+let array = []
+>>>>>>> 80ecc348cec322549b5423b52baf07d066fb357e
 
 // test
