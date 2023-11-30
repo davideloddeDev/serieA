@@ -11,6 +11,5 @@ let giampiero = {
     favoriteBook: "",
     petName: ""
     };
-let arr=[] //= [...giampiero];
+let arr=[];
 arr[0] = {...giampiero};
-console.log(arr[0]);
