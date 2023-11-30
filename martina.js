@@ -1,4 +1,4 @@
-const myObject = {
+let martina = {
   name: "Martina",
   surname: "Mancuso",
   age: 32,
