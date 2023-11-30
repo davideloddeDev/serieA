@@ -1,4 +1,4 @@
-let array = [{ 
+let martina = [{ 
     name: "Martina",
     surname: "Mancuso",
     age: 32,
