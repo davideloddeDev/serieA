@@ -1,4 +1,4 @@
-let array = [{
+const martina = {
   name: "Martina",
   surname: "Mancuso",
   age: 32,
@@ -9,4 +9,4 @@ let array = [{
   favoriteFilm: "mamma mia",
   favoriteBook: "solo bagaglio a mano",
   petName: "Neve"
-}]
+}
