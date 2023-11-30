@@ -1,3 +1,14 @@
 let array = []
 
-// test
+let davide = {
+    name: "Davide",
+    surname: "Lodde",
+    age: 30,
+    city: "Cagliari, Sardegna",
+    hobby: "Development",
+    favoriteFood: "Impossibile scegliere",
+    favoriteVideoGame: "Impossibile scegliere",
+    favoriteFilm: "Impossibile scegliere",
+    favoriteBook: "Impossibile scegliere",
+    petName: "Impossibile scegliere"
+    };
